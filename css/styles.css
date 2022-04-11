@@ -136,7 +136,7 @@ hr {
     text-decoration: none;
   }
 
-  @media screen and (max-device-width:278px){
+  @media screen and (max-device-width:580px){
     .top-cloud{
         position: absolute;
         right: 4%;
